@@ -9,9 +9,6 @@ local culture
 
 please consider some domestic journeies are much more expensive
 
-newshahr
-chabahar
-gheshm
 kish
 Qom
 Kerman
