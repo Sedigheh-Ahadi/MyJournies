@@ -13,3 +13,8 @@ kish
 Qom
 Kerman
 Arak
+
+mazandaran
+gilan
+golestan
+sari
