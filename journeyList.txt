@@ -2,6 +2,9 @@ Mashhad
 Shiraz
 Tabriz
 Isfahan
+Lorestan
+Kordestan
+Ahvaz
 
 Description:
 vising many historical places
