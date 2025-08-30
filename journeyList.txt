@@ -2,6 +2,7 @@ Mashhad
 Shiraz
 Tabriz
 Isfahan
+<<<<<<< HEAD
 kish
 Qom
 Kerman
@@ -14,6 +15,11 @@ sari
 
 rasht 
 noor
+
+Lorestan
+Kordestan
+Ahvaz
+
 
 Description:
 vising many historical places
