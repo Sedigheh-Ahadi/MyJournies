@@ -2,29 +2,15 @@ Mashhad
 Shiraz
 Tabriz
 Isfahan
-<<<<<<< HEAD
-kish
-Qom
-Kerman
-Arak
-
-mazandaran
-gilan
-golestan
-sari
-
-rasht 
-noor
-
 Lorestan
 Kordestan
 Ahvaz
-
 
 Description:
 vising many historical places
 local culture
 
-please consider some domestic journeies are much more expensive
-
-
+newshahr
+chabahar
+gheshm
+kish
